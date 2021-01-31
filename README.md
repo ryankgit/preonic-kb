@@ -6,8 +6,8 @@
 * [DROP Clear Halo Switches](https://drop.com/buy/drop-halo-switch-pack)
 * [PMK DSA Standard Keycaps](https://pimpmykeyboard.com/dsa-standard-keysets/)
 
-# Keymap
-![keymap](/layout/keymap.png)
+# Keymap v2
+![keymap](/layout/keymap-v2.png)
 
 # Credits
 [Open-source QMK Firmware](https://github.com/qmk/qmk_firmware)
