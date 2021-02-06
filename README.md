@@ -1,5 +1,6 @@
 # preonic-kb
 [QMK](https://qmk.fm/) Configurator export file for OLKB Preonic keyboard build. Updated as keymap evolves.
+![keyboard](/layout/keyboard-v3.png)
 
 # Repo Folders
 * `.bin` file(s) avaliable in `keymap-bin/` for flashing with QMK firmware
