@@ -11,6 +11,7 @@
 * [DROP + OLKB Preonic v3](https://drop.com/buy/preonic-mechanical-keyboard)
 * [DROP Clear Halo Switches](https://drop.com/buy/drop-halo-switch-pack)
 * [PMK DSA Standard Keycaps](https://pimpmykeyboard.com/dsa-standard-keysets/)
+* 2mm case foam
 * Vortex Race 3 aluminum feet
 
 # Keymap v3 (Current)
